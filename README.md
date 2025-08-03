@@ -18,7 +18,7 @@ I worked with a sales dataset to explore, clean, and prepare the data for future
 ### 🧰 Tools
 - Python, Pandas, Jupyter Notebook
 
-➡️ [View notebook]()
+➡️ [View notebook](./MiniSalesEda.ipynb)
 
 
 
