@@ -1,4 +1,4 @@
-# 🛠️ Silverlining: Mini Projects Collection
+# 🛠️ Mini Projects Collection
 
 A collection of beginner-friendly data science projects built using Python, Pandas, Jupyter Notebook, and Colab. Each notebook explores a small but practical use case to learn and showcase core data skills.
 
