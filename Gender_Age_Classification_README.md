@@ -1,0 +1,62 @@
+# Gender and Age Classification Using Machine Learning 🧓👩‍🦱
+
+A deep learning project that predicts gender and age from facial images using Convolutional Neural Networks (CNN). Built using the UTKFace dataset and trained in Google Colab.
+
+
+## 📁 Project Overview
+
+This project is designed to:
+- Classify gender (Male / Female)
+- Predict age (as a regression task)
+
+It uses a **multi-output CNN model** with shared convolutional layers and two separate output branches for gender and age.
+
+
+## 🧠 Technologies Used
+
+- Python
+- TensorFlow / Keras
+- NumPy, Matplotlib
+- UTKFace Dataset (from Kaggle)
+
+
+## 🖼️ Dataset
+
+**UTKFace**: A large-scale facial dataset with images labeled by age, gender, and ethnicity.
+
+- ~20,000 images
+- Age labels: 0–116 years
+- Gender: 0 = Male, 1 = Female
+
+📦 Dataset link: https://www.kaggle.com/datasets/jangedoo/utkface-new
+
+
+
+## 🏗️ Model Architecture
+
+- 3 Convolutional layers with BatchNormalization and MaxPooling
+- Dense layers with Dropout
+- Two output heads:
+  - `gender_output`: sigmoid for binary classification
+  - `age_output`: linear for age regression
+
+
+
+## 📊 Results
+
+- **Gender Accuracy**: ~58% (can be improved with tuning)
+- **Age MAE**: ~13 years
+- **Tested with real-life images** — including fun predictions on family members 👵👴
+
+---
+
+## 🧪 Future Improvements
+
+- Improve accuracy with class balancing & deeper architecture
+- Use face detection (OpenCV) before prediction
+- Add age-group classification instead of full regression
+
+
+This was part of early explorations in deep learning and image classification.
+
+
