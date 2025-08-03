@@ -36,7 +36,7 @@ Built and trained in Google Colab with real-world datasets and visual results.
 ### 🧰 Tools
 - Python, TensorFlow/Keras, Google Colab
 
-➡️ [View notebook]()
+➡️ [View notebook](./Gender_&_Age_classification_.ipynb)
 
 
 
