@@ -59,4 +59,4 @@ It uses a **multi-output CNN model** with shared convolutional layers and two se
 
 This was part of early explorations in deep learning and image classification.
 
-
+➡️ [Check out the notebook here](./Gender_&_Age_classification_.ipynb)
