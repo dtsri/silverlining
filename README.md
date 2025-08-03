@@ -1,36 +1,46 @@
-# 🧼 Mini EDA: Sales Data Cleaning Project
+# 🛠️ Silverlining: Mini Projects Collection
 
-This is a beginner-friendly EDA and data cleaning project using Python and Pandas.  
-I worked with a basic sales dataset to explore, clean, and prepare the data for future analysis.
+A collection of beginner-friendly data science projects built using Python, Pandas, Jupyter Notebook, and Colab. Each notebook explores a small but practical use case to learn and showcase core data skills.
 
-## 📌 Mini Project Highlights
 
+
+## 📊 Mini EDA: Sales Data Cleaning Project
+
+A basic EDA and data cleaning project using Python and Pandas.  
+I worked with a sales dataset to explore, clean, and prepare the data for future analysis.
+
+### 🔍 Highlights
 - Handled missing values and inconsistent entries
 - Cleaned column names and standardized formats
-- Performed data type conversions (e.g., dates, floats, strings)
-- Prepared a clean dataset for future analysis or modeling
+- Performed data type conversions
+- Prepared a clean dataset for future use
 
-## 🛠 Tools & Libraries
+### 🧰 Tools
+- Python, Pandas, Jupyter Notebook
 
-- Python
-- Pandas
-- Jupyter Notebook
-
-## 📊 Sample Steps
-
-- Checked for missing/null values
-- Replaced invalid zero entries
-- Removed duplicates
-
-## 🚀 How to Run
-
-1. Clone the repo
-2. Open `sales_data_cleaning.ipynb` in Jupyter Notebook
-3. Run each cell to follow the cleaning process
+➡️ [View notebook]()
 
 
-## 📎 Dataset Info
 
-The dataset used is a dummy sales data file used for practice and learning.  
+## 🧠 Gender & Age Classification with CNN
+
+Rebuilding my college project using deep learning (CNN) to classify gender and age based on facial images.  
+Built and trained in Google Colab with real-world datasets and visual results.
+
+### 🔍 Highlights
+- Image preprocessing and augmentation
+- CNN model training and testing
+- Age prediction + binary gender classification
+- Accuracy evaluation and sample predictions
+
+### 🧰 Tools
+- Python, TensorFlow/Keras, Google Colab
+
+➡️ [View notebook]()
+
+
+
+More projects coming soon 🚀
+ 
 
 
