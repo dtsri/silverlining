@@ -21,7 +21,6 @@ I worked with a sales dataset to explore, clean, and prepare the data for future
 ➡️ [View notebook](./MiniSalesEda.ipynb)
 
 
-
 ## 🧠 Gender & Age Classification with CNN
 
 Rebuilding my college project using deep learning (CNN) to classify gender and age based on facial images.  
