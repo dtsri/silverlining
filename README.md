@@ -39,6 +39,17 @@ Built and trained in Google Colab with real-world datasets and visual results.
 
 More projects coming soon 🚀
 
----
+# 🧾 Store Sales Performance Dashboard
+
+A Power BI dashboard that presents insights from store sales data.  
+This includes product-wise, region-wise, and monthly sales visualizations to understand performance trends.
+
+## 📊 Visuals Included:
+- 📈 Monthly Sales Trend
+- 🛍️ Product-wise Sales Breakdown
+- 🌍 Region-wise Sales
+- 🔢 Total Sales + Quantity Sold
+- 🎯 Year-over-Year Summary
+
 
 [Download Store sales performance.pbix](https://github.com/dtsri/silverlining/raw/e2e1488fec25884dfad132f936c9b5dbab70a6bf/Store%20sales%20performance.pbix)
