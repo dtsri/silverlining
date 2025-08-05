@@ -3,7 +3,6 @@
 A collection of beginner-friendly data science projects built using Python, Pandas, Jupyter Notebook, and Colab. Each notebook explores a small but practical use case to learn and showcase core data skills.
 
 
-
 ## 📊 Mini EDA: Sales Data Cleaning Project
 
 A basic EDA and data cleaning project using Python and Pandas.  
@@ -38,8 +37,8 @@ Built and trained in Google Colab with real-world datasets and visual results.
 ➡️ [View notebook](./Gender_&_Age_classification_.ipynb)
 
 
-
 More projects coming soon 🚀
- 
 
+---
 
+[Download Store sales performance.pbix](https://github.com/dtsri/silverlining/raw/e2e1488fec25884dfad132f936c9b5dbab70a6bf/Store%20sales%20performance.pbix)
