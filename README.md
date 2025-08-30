@@ -52,4 +52,5 @@ This includes product-wise, region-wise, and monthly sales visualizations to und
 - 🎯 Year-over-Year Summary
 
 
-[Download Store sales performance.pbix](https://github.com/dtsri/silverlining/raw/e2e1488fec25884dfad132f936c9b5dbab70a6bf/Store%20sales%20performance.pbix)
+[Download Store sales performance.pbix]
+(https://github.com/dtsri/silverlining/raw/main/Store%20sales%20performance.pbix)
